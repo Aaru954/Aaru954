@@ -14,7 +14,7 @@ I'm learning cloud technologies through hands-on practice and projects. Welcome 
 | Cloud | [AWS Dynamic Website Deployment](https://github.com/Aaru954/aws-dynamic-website-deployment) |
 | Cloud | [Node.js Application Deployment on AWS EC2](https://github.com/Aaru954/nodejs-ec2-deployment) |
 | Cloud | [WordPress Deployment on AWS EC2](https://github.com/Aaru954/wordpress-deployment-aws-ec2) |
-| Cloud | [Python Application Deployment on AWS EC2](https://github.com/Aaru954/python-app-deployment-aws-ec2) |
+| Cloud | [Python Application Deployment on AWS EC2](https://github.com/Aaru954/python-deployment-aws-ec2) |
 
 ## About My Projects
 
