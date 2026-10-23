@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Arya Sunil Dalvi
 
-<!--
-**Aaru954/Aaru954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cloud & DevOps Engineer 🇮🇳
 
-Here are some ideas to get you started:
+I'm learning cloud technologies through hands-on practice and projects. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+| Domain | Project |
+|---|---|
+| Cloud | [AWS Static Website Deployment](https://github.com/Aaru954/aws-static-website) |
+
+---
+
+### 📌 About This Project
+
+Deployed a static website using **HTML, CSS, JavaScript, and AWS S3**.
+
+---
+
+Thanks for visiting my profile! 😊
+
+
